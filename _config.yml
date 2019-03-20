@@ -19,7 +19,7 @@ description: >-
   Deep Division is my personal web site.
   Here you can find posts about ML\DL, mathematics and programming.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://deepdivision.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MihailSalnikov
 github_username:  MihailSalnikov
 linkedin_username: MihailSalnikov
