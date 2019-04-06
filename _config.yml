@@ -16,8 +16,7 @@
 title: Deep Division
 email: zlat1997 at gmail com
 description: >-
-  Deep Division is my personal web site.
-  Here you can find posts about ML\DL, mathematics and programming.
+  Deep Division is blog about Deep Learning, Machine Learning, programming and mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deepdivision.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MihailSalnikov
