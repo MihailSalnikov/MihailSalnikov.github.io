@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Deep Division
-email: Mikhail[dot]Salnikov[dot]dev on G mail com
+email: Mikhail[dot]Salnikov[dot]sci on G mail com
 description: >-
   Deep Division is blog about Deep Learning, Machine Learning, programming and mathematics.
 baseurl: "" # the subpath of your site, e.g. /blog
